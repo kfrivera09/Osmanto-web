@@ -324,3 +324,39 @@ footer {
     color: var(--bg-base);
     border-color: var(--gold-accent);
 }
+
+/* Para pantallas menores a 768px (Celulares) */
+@media (max-width: 768px) {
+    .product-grid {
+        grid-template-columns: 1fr; /* Una sola columna: perfume tras perfume */
+        gap: 15px;
+        padding: 10px;
+    }
+
+    .filter-container {
+        flex-wrap: wrap; /* Los botones se acomodarán en varias filas si no caben */
+        justify-content: center;
+        gap: 8px;
+        padding: 0 10px;
+    }
+
+    .filter-btn {
+        padding: 10px 15px;
+        font-size: 0.9rem;
+    }
+
+    .product-card {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+    .product-img {
+        height: 250px; /* Un poco más pequeña para que no ocupe toda la pantalla */
+        object-fit: contain;
+    }
+    
+    .btn-luxury {
+        width: 100%; /* Botón grande para que sea fácil de tocar con el pulgar */
+        text-align: center;
+    }
+}

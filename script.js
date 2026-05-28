@@ -120,7 +120,7 @@ filterBtns.forEach(btn => {
 });
 
 function getWaLink(message) {
-    return `https://wa.me/${333281176}?text=${encodeURIComponent(message)}`;
+    return `https://wa.me/${+57333281176}?text=${encodeURIComponent(message)}`;
 }
 
 // Inicializar
