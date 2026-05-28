@@ -1,4 +1,4 @@
-const NUMERO_WHATSAPP = "573001234567";
+const NUMERO_WHATSAPP = "573332811761";
 const productosPorPagina = 20;
 
 let todosLosPerfumes = []; // Base de datos maestra
@@ -120,7 +120,7 @@ filterBtns.forEach(btn => {
 });
 
 function getWaLink(message) {
-    return `https://wa.me/${+57333281176}?text=${encodeURIComponent(message)}`;
+    return `https://wa.me/${NUMERO_WHATSAPP}?text=${encodeURIComponent(message)}`;
 }
 
 // Inicializar

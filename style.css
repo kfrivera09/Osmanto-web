@@ -53,25 +53,27 @@ header p {
 
 /* BARRA DE FILTROS (Sticky para que siempre esté visible) */
 .filter-container {
-    position: sticky;
-    top: 0;
-    background-color: rgba(5, 5, 5, 0.95);
-    backdrop-filter: blur(10px);
-    padding: 20px;
-    border-bottom: 1px solid var(--border-subtle);
-    z-index: 100;
     display: flex;
-    justify-content: center;
-    gap: 15px;
-    flex-wrap: wrap;
+    overflow-x: auto; /* Esto permite el scroll horizontal */
+    white-space: nowrap; /* Evita que los botones se bajen de renglón */
+    padding: 10px;
+    gap: 10px;
+    scrollbar-width: none; /* Oculta la barra de scroll en Firefox */
+    -ms-overflow-style: none; /* Oculta en IE/Edge */
+}
+
+/* Oculta la barra de scroll en Chrome/Safari */
+.filter-container::-webkit-scrollbar {
+    display: none;
 }
 
 .filter-btn {
     background: transparent;
     color: var(--text-muted);
     border: 1px solid var(--border-subtle);
-    padding: 8px 18px;
-    border-radius: 30px;
+    flex: 0 0 auto;
+    padding: 10px 20px;
+    border-radius: 20px;
     font-family: 'Montserrat', sans-serif;
     font-size: 0.85rem;
     text-transform: uppercase;
