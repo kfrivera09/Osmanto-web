@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo | Alta Perfumería</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>OSMANTO</h1>
+        <p>Originales & Árabes Premium</p>
+    </header>
+
+    <div class="filter-container" id="filters">
+        <button class="filter-btn active" data-filter="todos">Ver Todos</button>
+        <button class="filter-btn" data-filter="diseñador">Diseñador</button>
+        <button class="filter-btn" data-filter="árabe">Árabes</button>
+    </div>
+
+    <div class="container">
+        <div class="product-grid" id="catalog-grid"></div>
+        <div class="pagination" id="pagination-controls">
+        </div>
+
+        <div class="special-block">
+            <h3>¿Buscas un aroma específico?</h3>
+            <p>Manejamos un servicio personalizado bajo pedido. Escríbenos y te confirmamos disponibilidad y precio de
+                forma inmediata.</p>
+            <a href="#" class="btn-solid-gold" id="btn-custom-order">Consultar Fragancia</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 OSMANTO. TODOS LOS DERECHOS RESERVADOS.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

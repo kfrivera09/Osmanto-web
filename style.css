@@ -1,0 +1,326 @@
+:root {
+    --bg-base: #050505;
+    --bg-card: #121212;
+    --gold-accent: #D4AF37;
+    --gold-hover: #F3E5AB;
+    --text-main: #EAEAEA;
+    --text-muted: #888888;
+    --border-subtle: #2A2A2A;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg-base);
+    color: var(--text-main);
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+
+header {
+    background-color: #000000;
+    text-align: center;
+    padding: 50px 20px 30px;
+    background-image: radial-gradient(circle at center, #1a1a1a 0%, #000000 100%);
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: var(--gold-accent);
+    margin-bottom: 10px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+header p {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/* BARRA DE FILTROS (Sticky para que siempre esté visible) */
+.filter-container {
+    position: sticky;
+    top: 0;
+    background-color: rgba(5, 5, 5, 0.95);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    border-bottom: 1px solid var(--border-subtle);
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.filter-btn {
+    background: transparent;
+    color: var(--text-muted);
+    border: 1px solid var(--border-subtle);
+    padding: 8px 18px;
+    border-radius: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.filter-btn:hover {
+    border-color: var(--gold-accent);
+    color: var(--text-main);
+}
+
+.filter-btn.active {
+    background: var(--gold-accent);
+    color: var(--bg-base);
+    border-color: var(--gold-accent);
+    font-weight: 600;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+/* GRID COMPACTO */
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 30px;
+    margin-bottom: 60px;
+}
+
+.product-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    transition: all 0.4s ease;
+    display: flex;
+    flex-direction: column;
+    border-radius: 6px;
+    overflow: hidden;
+    /* Animación de entrada al filtrar */
+    animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.product-card:hover {
+    border-color: var(--gold-accent);
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(212, 175, 55, 0.05);
+}
+
+.product-img {
+    width: 100%;
+    height: 240px;
+    /* Reducido para evitar exceso de scroll */
+    background-color: #0a0a0a;
+    object-fit: cover;
+    border-bottom: 1px solid var(--border-subtle);
+}
+
+.product-info {
+    padding: 20px 15px;
+    text-align: center;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.product-brand {
+    color: var(--gold-accent);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 5px;
+}
+
+.product-name {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+    color: var(--text-main);
+}
+
+.product-notes {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    font-style: italic;
+    margin-bottom: 15px;
+    line-height: 1.4;
+}
+
+.product-notes strong {
+    font-family: 'Playfair Display', serif;
+    color: var(--gold-accent);
+    font-style: normal;
+}
+
+.tags {
+    margin-top: auto;
+    margin-bottom: 15px;
+}
+
+.badge {
+    display: inline-block;
+    color: var(--text-muted);
+    font-size: 0.7rem;
+    padding: 0 8px;
+    border-right: 1px solid var(--border-subtle);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.badge:last-child {
+    border-right: none;
+}
+
+.btn-luxury {
+    display: inline-block;
+    background-color: transparent;
+    color: var(--gold-accent);
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 1px solid var(--gold-accent);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.3s;
+    width: 100%;
+}
+
+.btn-luxury:hover {
+    background-color: var(--gold-accent);
+    color: var(--bg-base);
+}
+
+/* Secciones Especiales */
+.special-block {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    padding: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.special-block::before {
+    content: '';
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    border: 1px solid rgba(212, 175, 55, 0.2);
+    pointer-events: none;
+}
+
+.special-block h3 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    color: var(--gold-accent);
+}
+
+.special-block p {
+    color: var(--text-muted);
+    max-width: 700px;
+    margin: 0 auto 25px auto;
+    font-size: 0.95rem;
+}
+
+.btn-solid-gold {
+    display: inline-block;
+    background-color: var(--gold-accent);
+    color: var(--bg-base);
+    text-decoration: none;
+    padding: 12px 25px;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+.btn-solid-gold:hover {
+    background-color: var(--gold-hover);
+}
+
+/* Mensaje cuando no hay resultados en el filtro */
+.no-results {
+    text-align: center;
+    grid-column: 1 / -1;
+    padding: 40px;
+    color: var(--text-muted);
+    font-size: 1.1rem;
+}
+
+.product-climate {
+    font-size: 0.8rem;
+    color: var(--gold-accent);
+    margin-top: 10px;
+    padding: 5px;
+    border-top: 1px solid var(--border-subtle);
+}
+
+.product-climate strong {
+    color: var(--text-muted);
+    font-family: 'Montserrat';
+    font-size: 0.7rem;
+    text-transform: uppercase;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    background: #000;
+    color: var(--text-muted);
+    font-size: 0.8rem;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+.page-btn {
+    background: var(--bg-card);
+    color: var(--text-muted);
+    border: 1px solid var(--border-subtle);
+    padding: 8px 15px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.page-btn.active {
+    background: var(--gold-accent);
+    color: var(--bg-base);
+    border-color: var(--gold-accent);
+}
