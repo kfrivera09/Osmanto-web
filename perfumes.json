@@ -6,7 +6,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano (Templado), Otoño",
     "notes": "Lavanda, Pera, Coco, Praliné, Vainilla, Almizcle",
-    "precio_colombia": "$290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Thank u next",
@@ -15,7 +15,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano (Templado)",
     "notes": "Frambuesa, Pera, Coco, Macarons, Almizcle",
-    "precio_colombia": "$270.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Sweet like candy",
@@ -24,7 +24,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Mora, Pera, Bergamota, Crema batida, Vainilla, Malvavisco",
-    "precio_colombia": "$260.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "SWY intensely",
@@ -33,7 +33,7 @@
     "line": "Diseñador",
     "clima": "Otoño (Templado, Frío), Invierno, Noche",
     "notes": "Pimienta rosa, Canela, Vainilla, Toffee, Ámbar, Cuero",
-    "precio_colombia": "$580.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Acqua di gio",
@@ -42,7 +42,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Clima cálido",
     "notes": "Notas marinas, Bergamota, Jazmín, Romero, Cedro, Almizcle",
-    "precio_colombia": "$360.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "My way intense",
@@ -51,7 +51,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño, Noche",
     "notes": "Flor de azahar, Nardo, Sándalo, Vainilla",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "212 nyc men",
@@ -60,7 +60,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Uso diario",
     "notes": "Notas verdes, Toronja, Especias, Jengibre, Almizcle, Sándalo",
-    "precio_colombia": "$390.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "212 vip men",
@@ -69,7 +69,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Maracuyá, Lima, Jengibre, Vodka, Pimienta, Ámbar",
-    "precio_colombia": "$360.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "212 vip black men",
@@ -78,7 +78,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Absenta, Anís, Hinojo, Lavanda, Vainilla negra, Almizcle",
-    "precio_colombia": "$420.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "212 vip rose 80ml",
@@ -87,7 +87,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Noche",
     "notes": "Champaña rosada, Pimienta rosa, Flor de durazno, Almizcle, Ámbar",
-    "precio_colombia": "$430.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "La bomba 80ml",
@@ -96,7 +96,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Otoño",
     "notes": "Pitahaya, Peonía, Vainilla solar, Patchouli",
-    "precio_colombia": "$600.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "CH dama",
@@ -105,7 +105,7 @@
     "line": "Diseñador",
     "clima": "Otoño (Templado), Invierno",
     "notes": "Bergamota, Toronja, Rosa, Jazmín, Praliné, Cuero, Sándalo",
-    "precio_colombia": "$390.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "CH men",
@@ -114,7 +114,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Hierba, Bergamota, Toronja, Azafrán, Nuez moscada, Cuero, Vainilla",
-    "precio_colombia": "$380.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Good girl",
@@ -123,7 +123,7 @@
     "line": "Diseñador",
     "clima": "Otoño (Templado, Frío), Invierno, Noche",
     "notes": "Almendra, Café, Jazmín, Nardo, Cacao, Haba tonka",
-    "precio_colombia": "$500.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Good girl blush",
@@ -132,7 +132,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño, Día/Noche",
     "notes": "Bergamota, Almendra amarga, Peonía, Ylang-ylang, Vainilla, Cumarina",
-    "precio_colombia": "$520.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Bad boy",
@@ -141,7 +141,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Pimienta blanca, Bergamota, Salvia, Cedro, Cacao, Haba tonka",
-    "precio_colombia": "$430.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Euphoria ck",
@@ -150,7 +150,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Granada, Caqui, Orquídea negra, Loto, Ámbar, Violeta, Caoba",
-    "precio_colombia": "$260.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Escape dama",
@@ -159,7 +159,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Melón, Manzanilla, Lichi, Rosa, Clavel, Sándalo, Vetiver",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Ck one 200ml",
@@ -168,7 +168,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Clima cálido",
     "notes": "Bergamota, Limón, Té verde, Violeta, Almizcle, Ámbar",
-    "precio_colombia": "$250.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Blue label",
@@ -177,7 +177,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Uso diario",
     "notes": "Bergamota, Toronja, Pimienta, Cardamomo, Vetiver, Cedro",
-    "precio_colombia": "$330.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Bleu de chanel",
@@ -186,7 +186,7 @@
     "line": "Diseñador",
     "clima": "Todo el año, Oficina, Noche",
     "notes": "Pomelo, Limón, Menta, Jengibre, Incienso, Cedro, Sándalo",
-    "precio_colombia": "$690.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Coco mademoiselle",
@@ -195,7 +195,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño, Elegante",
     "notes": "Naranja, Bergamota, Rosa, Jazmín, Patchouli, Vetiver, Vainilla",
-    "precio_colombia": "$750.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Fahrenheit",
@@ -204,7 +204,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Lavanda, Mandarina, Violeta, Cuero, Nuez moscada, Cedro",
-    "precio_colombia": "$570.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Miss dior edp",
@@ -213,7 +213,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño",
     "notes": "Iris, Peonía, Rosa, Lirio de los valles, Vainilla, Almizcle",
-    "precio_colombia": "$750.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Sauvage edt",
@@ -222,7 +222,7 @@
     "line": "Diseñador",
     "clima": "Todo el año, Cálido/Templado",
     "notes": "Bergamota de Calabria, Pimienta, Lavanda, Patchouli, Ambroxan, Cedro",
-    "precio_colombia": "$590.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Sauvage edp",
@@ -231,7 +231,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Bergamota, Pimienta, Lavanda, Anís estrellado, Nuez moscada, Vainilla, Ambroxan",
-    "precio_colombia": "$680.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Sauvage parfum",
@@ -240,7 +240,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Bergamota, Mandarina, Sándalo, Haba tonka, Incienso",
-    "precio_colombia": "$780.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Sauvage elixir 100ml",
@@ -249,7 +249,7 @@
     "line": "Diseñador",
     "clima": "Invierno, Noche, Clima frío",
     "notes": "Canela, Nuez moscada, Cardamomo, Lavanda, Regaliz, Sándalo, Ámbar",
-    "precio_colombia": "$1.100.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Jadore",
@@ -258,7 +258,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Elegante",
     "notes": "Pera, Melón, Magnolia, Jazmín, Rosa, Orquídea, Almizcle",
-    "precio_colombia": "$680.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Light blue dama",
@@ -267,7 +267,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Clima cálido",
     "notes": "Limón siciliano, Manzana, Cedro, Jazmín, Bambú, Ámbar, Almizcle",
-    "precio_colombia": "$320.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "LB caballero 125ml",
@@ -276,7 +276,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Clima cálido",
     "notes": "Bergamota, Toronja, Mandarina, Enebro, Pimienta, Almizcle, Incienso",
-    "precio_colombia": "$340.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "L'imperatrice",
@@ -285,7 +285,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Kiwi, Ruibarbo, Sandía, Jazmín, Almizcle, Sándalo",
-    "precio_colombia": "$290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "K",
@@ -294,7 +294,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Uso diario",
     "notes": "Cítricos, Enebro, Pimiento morrón, Lavanda, Cedro, Vetiver",
-    "precio_colombia": "$295.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Devotion",
@@ -303,7 +303,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Limón confitado, Flor de azahar, Panacota, Vainilla, Ron",
-    "precio_colombia": "$390.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "White diamonds",
@@ -312,7 +312,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Formal",
     "notes": "Aldehídos, Neroli, Lirio, Rosa, Nardo, Ámbar, Sándalo",
-    "precio_colombia": "$195.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "273",
@@ -321,7 +321,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño",
     "notes": "Gardenia, Melocotón, Nardo, Jazmín, Ámbar, Sándalo",
-    "precio_colombia": "$195.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Halston",
@@ -330,7 +330,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño",
     "notes": "Notas verdes, Menta, Melón, Rosa, Jazmín, Musgo de roble, Pachulí",
-    "precio_colombia": "$165.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Sun java white",
@@ -339,7 +339,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Bergamota, Mandarina, Menta, Geranio, Cedro, Almizcle",
-    "precio_colombia": "$190.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Sun java rose oud",
@@ -348,7 +348,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Rosa, Oud, Especias, Ámbar, Vainilla, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Sun royal oud",
@@ -357,7 +357,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Oud, Rosa, Azafrán, Ámbar, Maderas, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Diesel plus men",
@@ -366,7 +366,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño",
     "notes": "Naranja, Bergamota, Leche, Coco, Lavanda, Sándalo, Almizcle",
-    "precio_colombia": "$80.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Terre Dhermes",
@@ -375,7 +375,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño, Oficina",
     "notes": "Naranja, Pomelo, Pimienta, Geranio, Vetiver, Cedro, Benjuí",
-    "precio_colombia": "$490.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Lapidus men",
@@ -384,7 +384,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno",
     "notes": "Piña, Lavanda, Artemisia, Miel, Incienso, Tabaco, Ámbar",
-    "precio_colombia": "$150.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Hallowen purpple",
@@ -393,7 +393,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño",
     "notes": "Notas frutales, Violeta, Florales, Almizcle, Vainilla",
-    "precio_colombia": "$210.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Inebriante",
@@ -402,7 +402,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Notas licorosas, Especias, Maderas, Ámbar, Vainilla",
-    "precio_colombia": "$250.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Lacoste blanc",
@@ -411,7 +411,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Uso diario",
     "notes": "Toronja, Romero, Cardamomo, Nardo, Ylang-ylang, Cedro, Cuero",
-    "precio_colombia": "$330.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Lacoste noir",
@@ -420,7 +420,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Noche",
     "notes": "Sandía, Albahaca, Lavanda, Verbena, Chocolate, Cachemira",
-    "precio_colombia": "$310.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "La vie est a belle",
@@ -429,7 +429,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Pera, Grosella negra, Iris, Jazmín, Praliné, Vainilla, Patchouli",
-    "precio_colombia": "$490.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Legend spirit",
@@ -438,7 +438,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Oficina",
     "notes": "Toronja, Bergamota, Pimienta rosa, Lavanda, Cardamomo, Almizcle blanco",
-    "precio_colombia": "$260.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Emblem",
@@ -447,7 +447,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno",
     "notes": "Toronja, Salvia, Cardamomo, Canela, Hojas de violeta, Maderas",
-    "precio_colombia": "$260.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Nautica Voyage",
@@ -456,7 +456,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Clima cálido",
     "notes": "Manzana verde, Hojas verdes, Loto, Mimosa, Almizcle, Ámbar",
-    "precio_colombia": "$120.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Issey dama",
@@ -465,7 +465,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Loto, Fresia, Melón, Rosa, Lirio, Maderas, Almizcle",
-    "precio_colombia": "$320.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Issey caballero",
@@ -474,7 +474,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Yuzu, Limón, Bergamota, Nuez moscada, Loto, Tabaco, Cedro",
-    "precio_colombia": "$295.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Scandal caballero",
@@ -483,7 +483,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Salvia, Mandarina, Caramelo, Haba tonka, Vetiver",
-    "precio_colombia": "$480.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Ultra male",
@@ -492,7 +492,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Pera, Lavanda, Menta, Canela, Vainilla, Ámbar, Cedro",
-    "precio_colombia": "$430.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Le male",
@@ -501,7 +501,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Lavanda, Menta, Cardamomo, Canela, Vainilla, Ámbar, Sándalo",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Le beau le parfum",
@@ -510,7 +510,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Piña, Iris, Coco, Jengibre, Haba tonka, Sándalo, Ámbar",
-    "precio_colombia": "$500.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Le Beau Paradise Garden",
@@ -519,7 +519,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Noche",
     "notes": "Notas verdes, Menta, Coco, Higo, Sándalo, Haba tonka",
-    "precio_colombia": "$490.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Le male elixir",
@@ -528,7 +528,7 @@
     "line": "Diseñador",
     "clima": "Invierno, Noche",
     "notes": "Lavanda, Menta, Vainilla, Benjuí, Miel, Tabaco, Haba tonka",
-    "precio_colombia": "$470.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Moschino funny",
@@ -537,7 +537,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Naranja amarga, Grosella roja, Té verde, Peonía, Violeta, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Toy 2",
@@ -546,7 +546,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Manzana, Mandarina, Magnolia, Peonía, Jazmín, Almizcle, Sándalo",
-    "precio_colombia": "$290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Toy 2 pearl",
@@ -555,7 +555,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Limón, Orégano, Sorbete, Jazmín, Freesia, Almizcle, Vetiver",
-    "precio_colombia": "$280.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Toy boy",
@@ -564,7 +564,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Bergamota, Pimienta rosa, Pera, Rosa, Clavo, Vetiver, Sándalo",
-    "precio_colombia": "$280.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Starwalker",
@@ -573,7 +573,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Oficina",
     "notes": "Bambú, Bergamota, Mandarina, Sándalo, Cedro, Almizcle, Ámbar",
-    "precio_colombia": "$190.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Famme",
@@ -582,7 +582,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Noche",
     "notes": "Mango, Bergamota, Jazmín, Incienso, Vainilla, Sándalo",
-    "precio_colombia": "$480.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Phantom",
@@ -591,7 +591,7 @@
     "line": "Diseñador",
     "clima": "Todo el año, Noche",
     "notes": "Lavanda, Limón, Manzana, Humo, Pachulí, Vainilla, Vetiver",
-    "precio_colombia": "$420.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "one million",
@@ -600,7 +600,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Toronja, Menta, Canela, Rosa, Cuero, Ámbar, Patchouli",
-    "precio_colombia": "$420.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Pure xs",
@@ -609,7 +609,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Jengibre, Tomillo, Canela, Vainilla, Licor, Mirra, Cuero",
-    "precio_colombia": "$390.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Invictus",
@@ -618,7 +618,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Gimnasio",
     "notes": "Notas marinas, Toronja, Laurel, Jazmín, Madera de guayaco, Ámbar gris",
-    "precio_colombia": "$395.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Invictus victory elixir",
@@ -627,7 +627,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Lavanda, Cardamomo, Incienso, Patchouli, Haba tonka, Vainilla",
-    "precio_colombia": "$500.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Arsenal",
@@ -636,7 +636,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño",
     "notes": "Cítricos, Especias, Lavanda, Maderas, Ámbar, Almizcle",
-    "precio_colombia": "$140.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "360 dama",
@@ -645,7 +645,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Melón, Mandarina, Lirio, Lavanda, Rosa, Vainilla, Almizcle",
-    "precio_colombia": "$190.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "360 red men",
@@ -654,7 +654,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Naranja, Lima, Bergamota, Clavo, Lavanda, Vetiver, Pachulí",
-    "precio_colombia": "$180.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Insurretion",
@@ -663,7 +663,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño",
     "notes": "Manzana, Piña, Bergamota, Jazmín, Vainilla, Ámbar, Almizcle",
-    "precio_colombia": "$175.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Swiss army",
@@ -672,7 +672,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Menta, Bergamota, Lavanda, Especias, Cedro, Almizcle",
-    "precio_colombia": "$190.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Ombré leather",
@@ -681,7 +681,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Cardamomo, Jazmín sambac, Cuero, Patchouli, Ámbar, Musgo",
-    "precio_colombia": "$850.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Tommy men",
@@ -690,7 +690,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Uso diario",
     "notes": "Lavanda, Menta, Toronja, Manzana, Arándano, Ámbar, Algodón",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Tommy girl",
@@ -699,7 +699,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Manzana, Grosella negra, Mandarina, Camelia, Lirio, Menta, Magnolia",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Tommy impact",
@@ -708,7 +708,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño",
     "notes": "Naranja amarga, Pimienta rosa, Resina, Akigalawood, Cedro, Almizcle",
-    "precio_colombia": "$290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Boss in motion",
@@ -717,7 +717,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño",
     "notes": "Naranja, Bergamota, Violeta, Canela, Cardamomo, Vetiver, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Hugo man",
@@ -726,7 +726,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Uso diario",
     "notes": "Manzana verde, Menta, Lavanda, Salvia, Geranio, Abeto, Cedro",
-    "precio_colombia": "$230.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Boss bottled",
@@ -735,7 +735,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Oficina",
     "notes": "Manzana, Ciruela, Limón, Canela, Clavo, Vainilla, Sándalo",
-    "precio_colombia": "$320.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "HB Unlimited",
@@ -744,7 +744,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Menta, Hojas de violeta, Piña, Canela, Rosa, Sándalo, Almizcle",
-    "precio_colombia": "$290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "HB Night",
@@ -753,7 +753,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Lavanda, Abedul, Cardamomo, Violeta, Maderas, Almizcle",
-    "precio_colombia": "$320.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "The scent",
@@ -762,7 +762,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Jengibre, Maninka, Lavanda, Cuero, Maderas",
-    "precio_colombia": "$350.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Loewe 7",
@@ -771,7 +771,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Formal",
     "notes": "Manzana, Pimienta, Incienso, Rosa, Cedro, Vetiver, Almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Tous kids girl",
@@ -780,7 +780,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Mandarina, Caramelo, Limón, Flores, Vainilla, Almizcle",
-    "precio_colombia": "$190.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Tous kids boy",
@@ -789,7 +789,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Neroli, Mandarina, Trébol, Caramelo, Manzana, Almizcle",
-    "precio_colombia": "$190.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Heiress",
@@ -798,7 +798,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Noche",
     "notes": "Maracuyá, Durazno, Mimosa, Champaña, Madreselva, Ylang-ylang, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Bright crystal",
@@ -807,7 +807,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Día",
     "notes": "Yuzu, Granada, Peonía, Magnolia, Loto, Almizcle, Ámbar",
-    "precio_colombia": "$345.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Dylan blue dama",
@@ -816,7 +816,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Otoño",
     "notes": "Grosella negra, Manzana, Trébol, Rosa, Jazmín, Almizcle, Patchouli",
-    "precio_colombia": "$350.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Eros dama ep",
@@ -825,7 +825,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Noche",
     "notes": "Limón siciliano, Granada, Jazmín, Peonía, Almizcle, Ambroxan, Maderas",
-    "precio_colombia": "$360.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Dylan blue men",
@@ -834,7 +834,7 @@
     "line": "Diseñador",
     "clima": "Todo el año, Oficina/Noche",
     "notes": "Bergamota, Pomelo, Hojas de higuera, Ambroxan, Pimienta, Incienso, Almizcle",
-    "precio_colombia": "$290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Versace pour homme",
@@ -843,7 +843,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Oficina",
     "notes": "Limón, Neroli, Bergamota, Jacinto, Salvia, Cedro, Almizcle",
-    "precio_colombia": "$280.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Blue jean",
@@ -852,7 +852,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño",
     "notes": "Cítricos, Enebro, Lavanda, Jazmín, Iris, Vainilla, Sándalo",
-    "precio_colombia": "$195.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Red jean",
@@ -861,7 +861,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano",
     "notes": "Durazno, Chabacano, Grosella negra, Freesia, Violeta, Almizcle, Vainilla",
-    "precio_colombia": "$185.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Eau fraiche",
@@ -870,7 +870,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Clima cálido",
     "notes": "Limón, Bergamota, Palo de rosa, Cedro, Estragón, Almizcle, Ámbar",
-    "precio_colombia": "$300.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Eros edt",
@@ -879,7 +879,7 @@
     "line": "Diseñador",
     "clima": "Todo el año, Noche",
     "notes": "Menta, Manzana verde, Limón, Haba tonka, Ambroxan, Vainilla, Cedro",
-    "precio_colombia": "$300.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Eros edp",
@@ -888,7 +888,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Menta, Manzana, Limón, Geranio, Ambroxan, Vainilla, Cedro",
-    "precio_colombia": "$300.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Eros parfum",
@@ -897,7 +897,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Limón, Menta, Manzana, Geranio, Ámbar, Vainilla, Cuero",
-    "precio_colombia": "$430.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Eros flame",
@@ -906,7 +906,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Mandarina, Pimienta negra, Romero, Rosa, Geranio, Haba tonka, Vainilla",
-    "precio_colombia": "$300.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Eros energy",
@@ -915,7 +915,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Verano, Día",
     "notes": "Cítricos, Naranja sanguina, Lima, Bergamota, Almizcle, Patchouli",
-    "precio_colombia": "$390.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Eros Najim",
@@ -924,7 +924,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Oud, Caramelo, Patchouli, Incienso, Vetiver, Maderas",
-    "precio_colombia": "$390.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Born in roma",
@@ -933,7 +933,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño, Noche",
     "notes": "Violeta, Salvia, Jengibre, Sal mineral, Vetiver, Madera ahumada",
-    "precio_colombia": "$560.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Donna Born in roma intense",
@@ -942,7 +942,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Vainilla bourbon, Lavanda, Vetiver ahumado, Ámbar",
-    "precio_colombia": "$650.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Donna Born in roma",
@@ -951,7 +951,7 @@
     "line": "Diseñador",
     "clima": "Primavera, Otoño, Noche",
     "notes": "Grosella negra, Bergamota, Jazmín, Vainilla bourbon, Cachemira",
-    "precio_colombia": "$650.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "My self",
@@ -960,7 +960,7 @@
     "line": "Diseñador",
     "clima": "Todo el año, Oficina/Noche",
     "notes": "Bergamota, Flor de azahar, Ambrofix, Patchouli, Almizcle",
-    "precio_colombia": "$360.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Y Eau De Parfum",
@@ -969,7 +969,7 @@
     "line": "Diseñador",
     "clima": "Todo el año, Oficina/Noche",
     "notes": "Manzana, Bergamota, Jengibre, Salvia, Geranio, Ámbar gris, Cedro",
-    "precio_colombia": "$400.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Libre intense",
@@ -978,7 +978,7 @@
     "line": "Diseñador",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Lavanda, Mandarina, Flor de azahar, Orquídea, Vainilla, Ámbar gris",
-    "precio_colombia": "$600.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Ahli vega",
@@ -987,7 +987,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano, Otoño",
     "notes": "Cítricos, Frutas, Flores, Maderas, Almizcle",
-    "precio_colombia": "$390.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Ahli karpos",
@@ -996,7 +996,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano, Otoño",
     "notes": "Cítricos, Frutas, Flores, Maderas, Almizcle",
-    "precio_colombia": "$390.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Baccarat",
@@ -1005,7 +1005,7 @@
     "line": "Nicho",
     "clima": "Todo el año, Noche, Elegante",
     "notes": "Azafrán, Jazmín, Ámbar gris, Madera de cedro, Resina de abeto",
-    "precio_colombia": "$2.400.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Creed aventus",
@@ -1014,7 +1014,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano, Otoño",
     "notes": "Piña, Bergamota, Grosella negra, Manzana, Abedul, Pachulí, Musgo de roble",
-    "precio_colombia": "$1.550.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Creed silver",
@@ -1023,7 +1023,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano",
     "notes": "Bergamota, Mandarina, Té verde, Grosella negra, Almizcle, Sándalo",
-    "precio_colombia": "$1.400.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Biancco late",
@@ -1032,7 +1032,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Dulce",
     "notes": "Leche, Caramelo, Miel, Vainilla, Cumarina, Almizcle",
-    "precio_colombia": "$950.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Lamar",
@@ -1041,7 +1041,7 @@
     "line": "Nicho",
     "clima": "Primavera, Otoño, Noche",
     "notes": "Frutas, Rosa, Especias, Ámbar, Maderas, Almizcle",
-    "precio_colombia": "$780.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Dahab",
@@ -1050,7 +1050,7 @@
     "line": "Nicho",
     "clima": "Primavera, Otoño, Noche",
     "notes": "Frutas, Rosa, Especias, Ámbar, Maderas, Almizcle",
-    "precio_colombia": "$780.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Masa",
@@ -1059,7 +1059,7 @@
     "line": "Nicho",
     "clima": "Primavera, Otoño, Noche",
     "notes": "Frutas, Rosa, Especias, Ámbar, Maderas, Almizcle",
-    "precio_colombia": "$780.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "IL Arte",
@@ -1068,7 +1068,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "IL Bordeaux",
@@ -1077,7 +1077,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "IL Mexico",
@@ -1086,7 +1086,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "IL Kakuno",
@@ -1095,7 +1095,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "IL Roso",
@@ -1104,7 +1104,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "IL Oomph",
@@ -1113,7 +1113,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Il dolce",
@@ -1122,7 +1122,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Il erotique",
@@ -1131,7 +1131,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Il femme",
@@ -1140,7 +1140,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Il ego",
@@ -1149,7 +1149,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Il lonve",
@@ -1158,7 +1158,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Il orgasme",
@@ -1167,7 +1167,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "IL Sexuel",
@@ -1176,7 +1176,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Il voss",
@@ -1185,7 +1185,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Acordes florales, especiados, amaderados, ámbar y almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Blecker street",
@@ -1194,7 +1194,7 @@
     "line": "Nicho",
     "clima": "Primavera, Otoño",
     "notes": "Hojas de violeta, Arándano, Cedro, Canela, Roble, Pachulí, Caramelo",
-    "precio_colombia": "$1.600.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Toxic desire Korbaj",
@@ -1213,7 +1213,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano, Otoño",
     "notes": "Bergamota, Limón, Grosella negra, Cedro, Cuero, Vainilla, Almizcle",
-    "precio_colombia": "$520.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Instant crush",
@@ -1222,7 +1222,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Azafrán, Jengibre, Mandarina, Rosa, Jazmín, Ámbar, Vainilla, Maderas",
-    "precio_colombia": "$520.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Red tobacco",
@@ -1231,7 +1231,7 @@
     "line": "Nicho",
     "clima": "Invierno, Noche",
     "notes": "Canela, Oud, Incienso, Azafrán, Tabaco, Vainilla, Ámbar",
-    "precio_colombia": "$500.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Santal 33",
@@ -1240,7 +1240,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Oficina",
     "notes": "Cardamomo, Violeta, Iris, Sándalo, Cedro, Cuero, Ámbar",
-    "precio_colombia": "$1.650.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Arabians tonka",
@@ -1249,7 +1249,7 @@
     "line": "Nicho",
     "clima": "Invierno, Noche",
     "notes": "Azafrán, Bergamota, Rosa búlgara, Oud, Haba tonka, Ámbar, Almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Starry nights",
@@ -1258,7 +1258,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Bergamota, Limón, Manzana, Rosa, Pachulí, Ámbar, Almizcle",
-    "precio_colombia": "$450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Intense café",
@@ -1267,7 +1267,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Rosa, Café, Ámbar, Vainilla, Almizcle blanco",
-    "precio_colombia": "$420.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Intense roses musk",
@@ -1276,7 +1276,7 @@
     "line": "Nicho",
     "clima": "Primavera, Otoño",
     "notes": "Rosa, Jazmín, Ámbar, Almizcle",
-    "precio_colombia": "$380.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "California dream",
@@ -1285,7 +1285,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano",
     "notes": "Mandarina, Pera, Ambreta, Benjuí, Almizcle",
-    "precio_colombia": "$1.800.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Imagination",
@@ -1294,7 +1294,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano, Oficina",
     "notes": "Cidra, Naranja, Bergamota, Jengibre, Té negro, Ambroxan, Incienso",
-    "precio_colombia": "$1.750.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Pacific chill",
@@ -1303,7 +1303,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano, Calor",
     "notes": "Cidra, Naranja, Menta, Grosella negra, Albahaca, Ambreta",
-    "precio_colombia": "$1.800.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Limmensite",
@@ -1312,7 +1312,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano, Oficina",
     "notes": "Toronja, Jengibre, Bergamota, Salvia, Romero, Ambroxan, Ámbar",
-    "precio_colombia": "$1.800.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Ombre nomade",
@@ -1321,7 +1321,7 @@
     "line": "Nicho",
     "clima": "Invierno, Noche",
     "notes": "Oud, Incienso, Rosa, Frambuesa, Benjuí, Ámbar, Geranio",
-    "precio_colombia": "$2.250.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Ani",
@@ -1330,7 +1330,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Jengibre, Bergamota, Pimienta rosa, Grosella negra, Vainilla, Benjuí, Sándalo",
-    "precio_colombia": "$990.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Hacivat",
@@ -1339,7 +1339,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano, Otoño",
     "notes": "Piña, Bergamota, Pomelo, Jazmín, Pachulí, Cedro, Musgo de roble",
-    "precio_colombia": "$1.020.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Althair 125ml",
@@ -1348,7 +1348,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Flor de azahar, Canela, Cardamomo, Vainilla bourbon, Ambroxan, Almizcle",
-    "precio_colombia": "$1.450.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Pegasus 125ml",
@@ -1357,7 +1357,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Heliotropo, Comino, Bergamota, Almendra amarga, Lavanda, Vainilla, Sándalo",
-    "precio_colombia": "$1.150.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Layton 125ml",
@@ -1366,7 +1366,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Manzana, Lavanda, Bergamota, Jazmín, Violeta, Vainilla, Cardamomo, Sándalo",
-    "precio_colombia": "$1.200.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Delina 75ml",
@@ -1375,7 +1375,7 @@
     "line": "Nicho",
     "clima": "Primavera, Otoño, Noche",
     "notes": "Lichi, Ruibarbo, Bergamota, Rosa turca, Peonía, Vainilla, Almizcle",
-    "precio_colombia": "$1.200.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Elysium",
@@ -1384,7 +1384,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano, Oficina",
     "notes": "Toronja, Limón, Bergamota, Vetiver, Cedro, Ámbar gris, Almizcle",
-    "precio_colombia": "$1.100.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Andromeda",
@@ -1393,7 +1393,7 @@
     "line": "Nicho",
     "clima": "Primavera, Otoño",
     "notes": "Bergamota, Ylang-ylang, Violeta, Durazno, Lirio, Vainilla, Haba tonka",
-    "precio_colombia": "$850.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Kirke",
@@ -1402,7 +1402,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano",
     "notes": "Maracuyá, Durazno, Pera, Frambuesa, Lirio de los valles, Heliotropo, Almizcle",
-    "precio_colombia": "$690.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Naxos",
@@ -1411,7 +1411,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Lavanda, Bergamota, Limón, Miel, Canela, Tabaco, Vainilla",
-    "precio_colombia": "$1.100.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Erba pura",
@@ -1420,7 +1420,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano",
     "notes": "Naranja, Limón, Bergamota, Frutas mediterráneas, Ámbar, Vainilla, Almizcle",
-    "precio_colombia": "$1.100.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Decas",
@@ -1429,7 +1429,7 @@
     "line": "Nicho",
     "clima": "Otoño, Invierno",
     "notes": "Mandarina, Tabaco, Nardos, Iris, Benjuí, Almizcle",
-    "precio_colombia": "$950.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Torino 21",
@@ -1438,7 +1438,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano",
     "notes": "Menta, Limón, Tomillo, Romero, Jazmín, Lavanda, Almizcle",
-    "precio_colombia": "$1.290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Summer Hammer",
@@ -1447,7 +1447,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano, Noche",
     "notes": "Frutas, notas marinas, especias, ámbar, maderas, almizcle",
-    "precio_colombia": "$680.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Black sea",
@@ -1456,7 +1456,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano, Noche",
     "notes": "Frutas, notas marinas, especias, ámbar, maderas, almizcle",
-    "precio_colombia": "$680.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Que chimba!",
@@ -1465,7 +1465,7 @@
     "line": "Nicho",
     "clima": "Primavera, Verano, Noche",
     "notes": "Frutas, notas marinas, especias, ámbar, maderas, almizcle",
-    "precio_colombia": "$680.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Khamrah",
@@ -1474,7 +1474,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Canela, Nuez moscada, Dátiles, Praliné, Vainilla, Haba tonka, Benjuí",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "CDN Intense",
@@ -1483,7 +1483,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano, Otoño",
     "notes": "Limón, Piña, Bergamota, Abedul, Rosa, Jazmín, Almizcle, Ámbar gris",
-    "precio_colombia": "$250.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Bharara king",
@@ -1492,16 +1492,16 @@
     "line": "Árabe",
     "clima": "Primavera, Verano, Noche",
     "notes": "Naranja, Limón, Bergamota, Frutas, Vainilla, Ámbar, Almizcle",
-    "precio_colombia": "$300.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
-    "name": "Mandaryn sky",
+    "name": "Mandarin sky",
     "brand": "Armaf",
     "gender": "Unisex",
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Mandarina, Naranja, Azafrán, Caramelo, Haba tonka, Ambroxan",
-    "precio_colombia": "$240.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Mayar",
@@ -1510,7 +1510,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Lichi, Frambuesa, Violeta, Rosa, Vainilla, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Yara",
@@ -1519,7 +1519,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano, Otoño",
     "notes": "Orquídea, Heliotropo, Frutas tropicales, Vainilla, Almizcle, Sándalo",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Asad",
@@ -1528,7 +1528,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Pimienta negra, Piña, Tabaco, Café, Vainilla, Ámbar, Maderas",
-    "precio_colombia": "$200.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Delilah",
@@ -1537,7 +1537,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Lichi, Ruibarbo, Bergamota, Rosa, Peonía, Vainilla, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Stallion 53",
@@ -1546,7 +1546,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno",
     "notes": "Especias, Maderas, Cuero, Ámbar, Almizcle",
-    "precio_colombia": "$190.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "9am dive",
@@ -1555,7 +1555,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano, Día",
     "notes": "Limón, Menta, Grosella negra, Manzana, Incienso, Cedro, Patchouli",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "9pm",
@@ -1564,7 +1564,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Manzana, Canela, Bergamota, Lavanda, Vainilla, Ámbar, Haba tonka",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "9pm rebel",
@@ -1573,7 +1573,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Piña, Mandarina, Manzana, Musgo de roble, Vainilla, Ámbar, Cedro",
-    "precio_colombia": "$290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Aqua dubai 100ml",
@@ -1582,7 +1582,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Cítricos, Notas acuáticas, Flores blancas, Ámbar, Almizcle",
-    "precio_colombia": "$350.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Dubai night 100ml",
@@ -1591,7 +1591,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Azafrán, Rosa, Oud, Ámbar, Maderas, Vainilla",
-    "precio_colombia": "$350.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Amber gold 120ml",
@@ -1600,7 +1600,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Bergamota, Melón, Piña, Ámbar, Vainilla, Almizcle",
-    "precio_colombia": "$290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Ruby 60ml",
@@ -1609,7 +1609,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Frutas rojas, Rosa, Jazmín, Vainilla, Ámbar, Almizcle",
-    "precio_colombia": "$270.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "CDN Urban elixir",
@@ -1618,7 +1618,7 @@
     "line": "Árabe",
     "clima": "Todo el año, Noche",
     "notes": "Bergamota, Jazmín, Lavanda, Ambroxan, Vetiver, Patchouli",
-    "precio_colombia": "$240.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "CDN Sillage",
@@ -1627,7 +1627,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Bergamota, Limón, Hojas de violeta, Rosa, Iris, Sándalo, Almizcle",
-    "precio_colombia": "$270.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "CDN Untold",
@@ -1636,7 +1636,7 @@
     "line": "Árabe",
     "clima": "Todo el año, Elegante",
     "notes": "Azafrán, Jazmín, Ámbar gris, Cedro, Resina de abeto",
-    "precio_colombia": "$250.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "CDN Iconic",
@@ -1645,7 +1645,7 @@
     "line": "Árabe",
     "clima": "Todo el año, Oficina",
     "notes": "Pomelo, Limón, Menta, Jengibre, Sándalo, Ambroxan, Cedro",
-    "precio_colombia": "$260.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "CDN Woman",
@@ -1654,7 +1654,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Naranja, Durazno, Rosa, Jazmín, Lichi, Patchouli, Vainilla",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Sceptre",
@@ -1663,7 +1663,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno",
     "notes": "Cítricos, Especias, Ámbar, Maderas, Almizcle",
-    "precio_colombia": "$250.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Liquid brun",
@@ -1672,7 +1672,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Canela, Cardamomo, Vainilla, Praliné, Ámbar, Maderas",
-    "precio_colombia": "$290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Azzure oud",
@@ -1681,7 +1681,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Oud, Azafrán, Rosa, Ámbar, Maderas, Almizcle",
-    "precio_colombia": "$290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Odyssey marshmallow",
@@ -1690,7 +1690,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Malvavisco, Frutas, Vainilla, Almizcle, Ámbar",
-    "precio_colombia": "$230.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Odyssey candee",
@@ -1699,16 +1699,16 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Caramelo, Frutas rojas, Vainilla, Almizcle",
-    "precio_colombia": "$190.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
-    "name": "Mandaryn elixir",
+    "name": "Mandarin elixir",
     "brand": "Armaf",
     "gender": "Unisex",
     "line": "Árabe",
     "clima": "Otoño, Invierno",
     "notes": "Mandarina, Especias, Caramelo, Vainilla, Ámbar, Maderas",
-    "precio_colombia": "$290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Odyssey Bahamas",
@@ -1717,7 +1717,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Frutas tropicales, Coco, Cítricos, Almizcle, Ámbar",
-    "precio_colombia": "$230.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Odyssey Mango",
@@ -1726,7 +1726,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Mango, Cítricos, Frutas tropicales, Maderas, Almizcle",
-    "precio_colombia": "$230.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Qaed al fursan",
@@ -1735,7 +1735,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano, Noche",
     "notes": "Piña, Azafrán, Jazmín, Abedul, Ámbar, Oud, Maderas",
-    "precio_colombia": "$180.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Yum yum",
@@ -1744,7 +1744,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Fresa, Frutas dulces, Caramelo, Vainilla, Almizcle",
-    "precio_colombia": "$290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Nitro red",
@@ -1753,7 +1753,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Sandía, Lavanda, Manzana, Ámbar, Maderas, Almizcle",
-    "precio_colombia": "$230.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Nitro red intensely",
@@ -1762,7 +1762,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno",
     "notes": "Frutas rojas, Especias, Ámbar, Vainilla, Maderas, Almizcle",
-    "precio_colombia": "$270.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Rayhaan elixir",
@@ -1771,7 +1771,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno",
     "notes": "Especias, Vainilla, Ámbar, Maderas, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Ajwaad",
@@ -1780,7 +1780,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Frutas, Rosa, Vainilla, Ámbar, Almizcle",
-    "precio_colombia": "$190.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Liam blue",
@@ -1789,7 +1789,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Bergamota, Pimienta, Notas marinas, Ámbar gris, Maderas",
-    "precio_colombia": "$250.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Fakhar rosé",
@@ -1798,7 +1798,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Frutas, Nardos, Jazmín, Vainilla, Ámbar, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Fakhar black",
@@ -1807,7 +1807,7 @@
     "line": "Árabe",
     "clima": "Todo el año",
     "notes": "Manzana, Bergamota, Jengibre, Lavanda, Salvia, Cedro, Haba tonka",
-    "precio_colombia": "$200.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Noble blush",
@@ -1816,7 +1816,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Rosa, Frutas, Vainilla, Almizcle, Sándalo",
-    "precio_colombia": "$240.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Oud for glory",
@@ -1825,7 +1825,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Azafrán, Nuez moscada, Lavanda, Oud, Patchouli, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Amethyst",
@@ -1834,7 +1834,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Rosa, Pimienta rosa, Bergamota, Oud, Ámbar, Vainilla",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Sublime",
@@ -1843,7 +1843,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Manzana, Lichi, Rosa, Jazmín, Ciruela, Vainilla, Musgo",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Honor & glory",
@@ -1852,7 +1852,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Piña, Crema brûlée, Canela, Cúrcuma, Vainilla, Sándalo",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Khamrah qahwa",
@@ -1861,7 +1861,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Jengibre, Canela, Cardamomo, Café, Praliné, Vainilla, Haba tonka",
-    "precio_colombia": "$240.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Khamrah Dukhan",
@@ -1870,7 +1870,7 @@
     "line": "Árabe",
     "clima": "Invierno, Noche",
     "notes": "Especias, Tabaco, Incienso, Vainilla, Ámbar, Maderas",
-    "precio_colombia": "$250.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Emeer",
@@ -1879,7 +1879,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Cítricos, Bayas, Enebro, Té, Cuero, Ámbar, Maderas",
-    "precio_colombia": "$230.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Mayar natural",
@@ -1888,7 +1888,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Frutas tropicales, Higo, Florales, Coco, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Mayar cherry",
@@ -1897,7 +1897,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Cereza, Frutas rojas, Flores, Vainilla, Almizcle",
-    "precio_colombia": "$230.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Haya",
@@ -1906,7 +1906,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Champaña, Fresa, Mandarina, Rosa, Jazmín, Vainilla, Ámbar",
-    "precio_colombia": "$250.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Yara Candy",
@@ -1915,7 +1915,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Frutas confitadas, Fresa, Vainilla, Almizcle, Caramelo",
-    "precio_colombia": "$200.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Yara tous",
@@ -1924,7 +1924,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Mango, Coco, Maracuyá, Jazmín, Heliotropo, Vainilla, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Yara moi",
@@ -1933,7 +1933,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno",
     "notes": "Durazno, Jazmín, Caramelo, Ámbar, Pachulí, Sándalo",
-    "precio_colombia": "$210.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Asad zanzibar",
@@ -1942,7 +1942,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano, Noche",
     "notes": "Pimienta negra, Lavanda, Coco, Agua salada, Incienso, Vainilla",
-    "precio_colombia": "$230.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Asad bourbon",
@@ -1951,7 +1951,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Lavanda, Mirra, Cacao, Vainilla bourbon, Ámbar, Vetiver",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "The kingdom",
@@ -1960,7 +1960,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Lavanda, Menta, Vainilla, Tabaco, Benjuí, Haba tonka",
-    "precio_colombia": "$260.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Al qiam gold",
@@ -1969,7 +1969,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno",
     "notes": "Frutas dulces, Azafrán, Rosa, Oud, Ámbar, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Eclaire",
@@ -1978,7 +1978,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno",
     "notes": "Leche, Caramelo, Azúcar, Miel, Vainilla, Praliné, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Wazeer",
@@ -1987,7 +1987,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Menta, Enebro, Especias, Iris, Maderas, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Safeer",
@@ -1996,7 +1996,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Bergamota, Artemisia, Hierbas, Especias, Ámbar, Maderas",
-    "precio_colombia": "$190.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Ameer",
@@ -2005,7 +2005,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno",
     "notes": "Manzana, Pimienta rosa, Clavo, Oud, Pachulí, Ámbar, Maderas",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Her confession",
@@ -2014,7 +2014,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Canela, Jazmín, Nardo, Vainilla, Haba tonka, Almizcle",
-    "precio_colombia": "$250.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "His confession",
@@ -2023,7 +2023,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Mandarina, Canela, Lavanda, Iris, Vainilla, Benjuí, Cedro",
-    "precio_colombia": "$250.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Afeef",
@@ -2032,7 +2032,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Cítricos, Especias, Flores blancas, Ámbar, Maderas, Almizcle",
-    "precio_colombia": "$300.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Shaheen gold",
@@ -2041,7 +2041,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Piña, Toronja, Lavanda, Higo, Vainilla, Haba tonka, Pachulí",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Shaheen silver",
@@ -2050,7 +2050,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Cítricos, Bergamota, Jengibre, Lavanda, Almizcle, Maderas",
-    "precio_colombia": "$250.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Nebras",
@@ -2059,7 +2059,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno",
     "notes": "Frutos rojos, Mandarina, Cacao, Vainilla, Haba tonka, Ámbar, Almizcle",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Art of universe",
@@ -2068,7 +2068,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Cítricos, Frutas, Flores, Ámbar, Almizcle, Maderas",
-    "precio_colombia": "$280.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Vintage radio",
@@ -2077,7 +2077,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno",
     "notes": "Lavanda, Salvia, Ciruela, Palo santo, Pimienta negra, Sándalo",
-    "precio_colombia": "$250.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Amber & leather",
@@ -2086,7 +2086,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Cardamomo, Jazmín, Cuero, Patchouli, Ámbar, Musgo",
-    "precio_colombia": "$220.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "GOS Bonus",
@@ -2095,7 +2095,7 @@
     "line": "Árabe",
     "clima": "Todo el año, Noche",
     "notes": "Cítricos, Especias, Ámbar, Maderas, Almizcle",
-    "precio_colombia": "$380.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "GOS Wildcard",
@@ -2104,7 +2104,7 @@
     "line": "Árabe",
     "clima": "Todo el año, Noche",
     "notes": "Cítricos, Especias, Ámbar, Maderas, Almizcle",
-    "precio_colombia": "$380.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "GOS Royale",
@@ -2113,7 +2113,7 @@
     "line": "Árabe",
     "clima": "Todo el año, Noche",
     "notes": "Cítricos, Especias, Ámbar, Maderas, Almizcle",
-    "precio_colombia": "$380.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Hawas",
@@ -2122,7 +2122,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Manzana, Bergamota, Limón, Canela, Notas acuáticas, Ciruela, Ámbar gris",
-    "precio_colombia": "$290.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Hawas ice",
@@ -2131,7 +2131,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Manzana, Limón, Bergamota, Menta, Notas acuáticas, Ámbar, Almizcle",
-    "precio_colombia": "$280.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Rome pour homme",
@@ -2140,7 +2140,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Cítricos, Aromáticos, Maderas, Ámbar, Almizcle",
-    "precio_colombia": "$240.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Rome pour femme",
@@ -2149,7 +2149,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Frutas, Flores blancas, Vainilla, Ámbar, Almizcle",
-    "precio_colombia": "$240.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Niche femme",
@@ -2158,7 +2158,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Flores, Frutas, Vainilla, Ámbar, Almizcle",
-    "precio_colombia": "$300.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Bharara rose",
@@ -2167,7 +2167,7 @@
     "line": "Árabe",
     "clima": "Primavera, Otoño",
     "notes": "Rosa, Frutas, Vainilla, Ámbar, Almizcle",
-    "precio_colombia": "$330.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Bharara soleil",
@@ -2176,7 +2176,7 @@
     "line": "Árabe",
     "clima": "Primavera, Verano",
     "notes": "Cítricos, Frutas tropicales, Vainilla, Almizcle, Ámbar",
-    "precio_colombia": "$350.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Amber rouge",
@@ -2185,7 +2185,7 @@
     "line": "Árabe",
     "clima": "Todo el año, Elegante",
     "notes": "Azafrán, Jazmín, Ámbar gris, Maderas, Resinas",
-    "precio_colombia": "$390.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Velvet gold",
@@ -2194,7 +2194,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno",
     "notes": "Caramelo, Vainilla, Ámbar, Almizcle, Maderas",
-    "precio_colombia": "$390.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Oud saffron",
@@ -2203,7 +2203,7 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno, Noche",
     "notes": "Azafrán, Oud, Rosa, Ámbar, Maderas, Almizcle",
-    "precio_colombia": "$390.000 COP"
+    "precio_colombia": "Disponible"
   },
   {
     "name": "Royal amber",
@@ -2212,6 +2212,6 @@
     "line": "Árabe",
     "clima": "Otoño, Invierno",
     "notes": "Ámbar, Vainilla, Maderas, Especias, Almizcle",
-    "precio_colombia": "$390.000 COP"
+    "precio_colombia": "Disponible"
   }
 ]

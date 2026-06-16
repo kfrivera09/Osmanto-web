@@ -54,6 +54,7 @@ header p {
 /* BARRA DE FILTROS (Sticky para que siempre esté visible) */
 .filter-container {
     display: flex;
+    justify-content: center;
     overflow-x: auto; /* Esto permite el scroll horizontal */
     white-space: nowrap; /* Evita que los botones se bajen de renglón */
     padding: 10px;
@@ -307,6 +308,7 @@ footer {
 .pagination {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 10px;
     margin-top: 40px;
     padding-bottom: 40px;
@@ -360,5 +362,10 @@ footer {
     .btn-luxury {
         width: 100%; /* Botón grande para que sea fácil de tocar con el pulgar */
         text-align: center;
+    }
+
+    .pagination {
+        gap: 8px;
+        padding: 0 20px 40px;
     }
 }
